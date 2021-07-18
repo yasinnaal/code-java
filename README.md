@@ -10,7 +10,7 @@
 
 ## Netbeans
 
-main errors you may get when you run your program: **"No Main class found in NetBeans"**<br>
+Main errors you may get when you run your program: **"No Main class found in NetBeans"**<br>
 
 **Solution:**<br>
 Maintain jdk home directory path in netbeans config file:<br>
