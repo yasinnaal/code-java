@@ -1,11 +1,11 @@
 ## Java
 
-### Main Java code editors
+#### Main Java code editors
 
 - Netbeans
 - VS Code
 
-### Prerequisite
+#### Prerequisite
 - Java SE Development Kit 
 
 ## Netbeans
